@@ -1,0 +1,12 @@
+{
+    "L3TOSComp" : {
+                "L3TOSComp1" : "Floor:3\" LW Concrete On 1-1/2\" Metal Deck:497523",
+                "L3TOSComp2" : "Floor:2\" LW Concrete On 1-1/2\" Metal Deck:499108"
+                },
+    "FootingsBOCComp" :{
+                "FootingsBocComp1" :"Footing-Rectangular:16' X 16' X 21\":297112",
+                "FootingsBocComp2" : "Footing-Rectangular:16' X 16' X 21\":297594",
+                "FootingsBocComp3" : "Footing-Rectangular:9' X 9' X 16\":297977"
+
+                }
+}
